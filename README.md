@@ -2,12 +2,12 @@
 
 ## Hi 👋, I'm WiizMed
 
-### Full-Stack Web/Mobile Developer from [Your Location]
+### Full-Stack Web/Mobile Developer from [Tunisia-Bizerte]
 
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m currently learning **Three.js**
 - 💬 Ask me about **JavaScript, React**
-- 📫 How to reach me: [louizmed2@gmail.com](mailto:louizmed2@gmail.com)
+- 📫 How to reach me: [louizmed2@gmail.com]
 
 ### 🌐 Connect With Me
 
