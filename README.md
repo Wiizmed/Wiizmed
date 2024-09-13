@@ -9,16 +9,39 @@
 - 💬 Ask me about **JavaScript, React**
 - 📫 How to reach me: [louizmed2@gmail.com](mailto:louizmed2@gmail.com)
 
+### 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 [Email](mailto:louizmed2@gmail.com)
+- 🌐 [Portfolio Website](https://yourportfolio.com)
+
 ### Connect with me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 
+### Most Tech-Stack Used
+
+- **JavaScript:** (ES6+ features, frameworks, tools)
+- **HTML/CSS/Tailwind/Mui**
+- **DOM Manipulation**
+- **Front-End Tools and Libraries**
+- **React.js**
+- **Bundlers and Builders/Webpack**
+- **Version Control Systems (GIT/GitHub)**
+- **Node.js, Express.js**
+- **API Development**
+- **Databases:** Working with SQL (MySQL) and NoSQL (MongoDB)
+- **Authentication (JWT, JSON Web Tokens)**
+- **Cloudinary Management**
+- **Real-Time Communication:** WebSockets for in-app chat and notifications
+- **Mapping and Tracking:** Google Maps API
+
 ### Languages and Tools:
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" />
@@ -26,27 +49,62 @@
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="ExpressJS" />
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="NextJS" /> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.Js" />
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
   <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" />
 </p>
 
-### Most Used Languages:
+### 🏆 Featured Projects
+
+#### 
+
+🛠 Tech Stack: Node.js, Express.js, Mysql, React Native  
+🔑 Key Features:
+- Secure user authentication with JWT
+- Real-time data management using Mysql
+- RESTful API for seamless frontend-backend communication
+- Integration with Google Maps for location services  
+🔗 [View Project](#)
+
+#### E-Commerce Backend System
+
+🛠 Tech Stack: Node.js, Express.js, Mysql 
+🔑 Key Features:
+- Scalable architecture for high-traffic handling
+- Advanced caching mechanisms for improved performance
+- Secure payment gateway integration  
+🔗 [View Project](#)
+
+#### Real-Time Chat Application
+
+🛠 Tech Stack: Socket.io, Node.js, React, Mysql  
+🔑 Key Features:
+- Real-time messaging with WebSocket technology
+- User presence detection and typing indicators
+- Message history persistence  
+🔗 [View Project](#)
+
+### 📊 Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-### GitHub Stats:
+### 📈 GitHub Stats:
 
 ![WIIZMed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-### Contribution Stats:
+### 🔥 Contribution Stats:
 
 ![WIIZMed's Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
 
 - **Total Contributions:** 206 (01,03, 2024 - Present)
 - **Current Streak:** 2 (01 Marsh - Sep 18)
 - **Longest Streak:** 7 (01 Marsh - Sep 18)
+
+---
+
+Thank you for visiting my profile! Let's build something extraordinary together! 🚀
