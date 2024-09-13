@@ -42,5 +42,5 @@
 ![WIIZMed's Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
 
 - **Total Contributions:** 206 (01,03, 2024 - Present)
-- **Current Streak:** 2 (Sep 11 - Sep 12)
-- **Longest Streak:** 7 (Feb 12 - Feb 18)
+- **Current Streak:** 2 (01 Marsh - Sep 18)
+- **Longest Streak:** 7 (01 Marsh - Sep 18)
