@@ -1,8 +1,8 @@
-![Header Image](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
+![Header Image](https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)
 
-## Hi 👋, I'm [Your Name]
+## Hi 👋, I'm WIIZmed
 
-### Full-Stack Web/Mobile Developer from [Your Location]
+### Full-Stack Web/Mobile Developer from [BIZERTE]
 
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m currently learning **Three.js**
@@ -32,3 +32,15 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### GitHub Stats:
+
+![WIIZMed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+### Contribution Stats:
+
+![WIIZMed's Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+
+- **Total Contributions:** 206 (Sep 8, 2023 - Present)
+- **Current Streak:** 2 (Sep 11 - Sep 12)
+- **Longest Streak:** 7 (Feb 12 - Feb 18)
