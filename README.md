@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m currently learning **Three.js**
 - 💬 Ask me about **JavaScript, React**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [louizmed2@gmail.com)
 
 ### Connect with me:
 
@@ -41,6 +41,6 @@
 
 ![WIIZMed's Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
 
-- **Total Contributions:** 206 (Sep 8, 2023 - Present)
+- **Total Contributions:** 206 (01,03, 2024 - Present)
 - **Current Streak:** 2 (Sep 11 - Sep 12)
 - **Longest Streak:** 7 (Feb 12 - Feb 18)
