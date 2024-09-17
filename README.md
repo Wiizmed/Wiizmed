@@ -11,7 +11,7 @@
 
 ### 🌐 Connect With Me
 
-- 💼 [LinkedIn](linkedin.com/in/mohamed-louiz-a469492b2)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-louiz-a469492b2)
 - 📧 [Email](mailto:louizmed2@gmail.com)
 - 🌐 [Portfolio Website](https://yourportfolio.com)
 
